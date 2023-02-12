@@ -1,26 +1,26 @@
 [
   {
-    "name": "Сырники из творога",
+    "nameRecipe": "Сырники из творога",
     "cookingTime": 30,
     "measureUnitTime": "мин.",
     "ingredients": [
       {
-        "name": "Творог",
+        "nameIngredient": "Творог",
         "quantity": 350,
         "measureUnit": "г"
       },
       {
-        "name": "Куриное яйцо",
+        "nameIngredient": "Куриное яйцо",
         "quantity": 2,
         "measureUnit": "шт."
       },
       {
-        "name": "Пшеничная мука",
+        "nameIngredient": "Пшеничная мука",
         "quantity": 6,
         "measureUnit": "ст.л."
       },
       {
-        "name": "Сахар",
+        "nameIngredient": "Сахар",
         "quantity": 2,
         "measureUnit": "ст.л."
       }
@@ -35,47 +35,47 @@
     }
   },
   {
-    "name": "Салат из красной фасоли с творожным сыром, красным луком и сезонным салатом",
+    "nameRecipe": "Салат из красной фасоли с творожным сыром, красным луком и сезонным салатом",
     "cookingTime": 7,
     "measureUnitTime": "мин.",
     "ingredients": [
       {
-        "name": "Специи",
+        "nameIngredient": "Специи",
         "quantity": 0,
         "measureUnit": "по вкусу"
       },
       {
-        "name": "Консервированная фасоль",
+        "nameIngredient": "Консервированная фасоль",
         "quantity": 400,
         "measureUnit": "г"
       },
       {
-        "name": "Лимон",
+        "nameIngredient": "Лимон",
         "quantity": 1,
         "measureUnit": "шт."
       },
       {
-        "name": "Чеснок",
+        "nameIngredient": "Чеснок",
         "quantity": 2,
         "measureUnit": "зубчика"
       },
       {
-        "name": "Оливковое масло",
+        "nameIngredient": "Оливковое масло",
         "quantity": 50,
         "measureUnit": "мл"
       },
       {
-        "name": "Рукола",
+        "nameIngredient": "Рукола",
         "quantity": 100,
         "measureUnit": "г"
       },
       {
-        "name": "Творожный сыр",
+        "nameIngredient": "Творожный сыр",
         "quantity": 200,
         "measureUnit": "г"
       },
       {
-        "name": "Красный лук",
+        "nameIngredient": "Красный лук",
         "quantity": 50,
         "measureUnit": "г"
       }
@@ -87,57 +87,57 @@
     }
   },
   {
-    "name": "Чечевичный суп с мятой (на 4 порции)",
+    "nameRecipe": "Чечевичный суп с мятой (на 4 порции)",
     "cookingTime": 30,
     "measureUnitTime": "мин.",
     "ingredients": [
       {
-        "name": "Красная чечевица",
+        "nameIngredient": "Красная чечевица",
         "quantity": 150,
         "measureUnit": "г"
       },
       {
-        "name": "Репчатый лук",
+        "nameIngredient": "Репчатый лук",
         "quantity": 1,
         "measureUnit": "головка"
       },
       {
-        "name": "Морковь",
+        "nameIngredient": "Морковь",
         "quantity": 1,
         "measureUnit": "шт."
       },
       {
-        "name": "Подсолнечное масло",
+        "nameIngredient": "Подсолнечное масло",
         "quantity": 30,
         "measureUnit": "мл"
       },
       {
-        "name": "Сливочное масло",
+        "nameIngredient": "Сливочное масло",
         "quantity": 50,
         "measureUnit": "г"
       },
       {
-        "name": "Пшеничная мука",
+        "nameIngredient": "Пшеничная мука",
         "quantity": 30,
         "measureUnit": "г"
       },
       {
-        "name": "Сливки 33%",
+        "nameIngredient": "Сливки 33%",
         "quantity": 50,
         "measureUnit": "мл"
       },
       {
-        "name": "Специи",
+        "nameIngredient": "Специи",
         "quantity": 0,
         "measureUnit": "по вкусу"
       },
       {
-        "name": "Лимон",
+        "nameIngredient": "Лимон",
         "quantity": 0.5,
         "measureUnit": "шт."
       },
       {
-        "name": "Мята",
+        "nameIngredient": "Мята",
         "quantity": 0,
         "measureUnit": "по вкусу"
       }
@@ -150,42 +150,42 @@
     }
   },
   {
-    "name": "Салат с креветками и кунжутом",
+    "nameRecipe": "Салат с креветками и кунжутом",
     "cookingTime": 20,
     "measureUnitTime": "мин.",
     "ingredients": [
       {
-        "name": "Помидоры",
+        "nameIngredient": "Помидоры",
         "quantity": 3,
         "measureUnit": "шт."
       },
       {
-        "name": "Королевские креветки",
+        "nameIngredient": "Королевские креветки",
         "quantity": 300,
         "measureUnit": "г"
       },
       {
-        "name": "Зеленый салат",
+        "nameIngredient": "Зеленый салат",
         "quantity": 1,
         "measureUnit": "пучок"
       },
       {
-        "name": "Огурцы",
+        "nameIngredient": "Огурцы",
         "quantity": 2,
         "measureUnit": "шт."
       },
       {
-        "name": "Специи",
+        "nameIngredient": "Специи",
         "quantity": 0,
         "measureUnit": "по вкусу"
       },
       {
-        "name": "Майонез ",
+        "nameIngredient": "Майонез ",
         "quantity": 0,
         "measureUnit": "по вкусу"
       },
       {
-        "name": "Кунжутные семечки",
+        "nameIngredient": "Кунжутные семечки",
         "quantity": 3,
         "measureUnit": "ст.л."
       }
@@ -199,42 +199,42 @@
     }
   },
   {
-    "name": "Творожные пончики в сахарной пудре",
+    "nameRecipe": "Творожные пончики в сахарной пудре",
     "cookingTime": 40,
     "measureUnitTime": "мин.",
     "ingredients": [
-           {
-        "name": "Творог",
+      {
+        "nameIngredient": "Творог",
         "quantity": 250,
         "measureUnit": "г"
       },
       {
-        "name": "Куриное яйцо",
+        "nameIngredient": "Куриное яйцо",
         "quantity": 3,
         "measureUnit": "шт."
       },
       {
-        "name": "Пшеничная мука",
+        "nameIngredient": "Пшеничная мука",
         "quantity": 8,
         "measureUnit": "ст.л."
       },
       {
-        "name": "Сахар и соль",
+        "nameIngredient": "Сахар и соль",
         "quantity": 0,
         "measureUnit": "по вкусу"
       },
       {
-        "name": "Оливковое масло",
+        "nameIngredient": "Оливковое масло",
         "quantity": 0,
         "measureUnit": "по вкусу"
       },
       {
-        "name": "Сода",
+        "nameIngredient": "Сода",
         "quantity": 0.5,
         "measureUnit": "ч.л."
       },
       {
-        "name": "Сахарная пудра с ванилью",
+        "nameIngredient": "Сахарная пудра с ванилью",
         "quantity": 0,
         "measureUnit": "по вкусу"
       }
